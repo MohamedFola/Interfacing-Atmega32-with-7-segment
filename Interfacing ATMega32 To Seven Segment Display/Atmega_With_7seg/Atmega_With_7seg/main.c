@@ -54,6 +54,7 @@ for number 9 --> A, B, C, D, F, G      --> 0 1 1 0 1 1 1 1 --> 0x6F
 #define F_CPU 8000000UL
 #include <util/delay.h>
 #include <avr/io.h>
+#include <stdint.h>
 
 #define Bush_Button_Pin   0
 #define Btn_Pressed       ((PINA<<Bush_Button_Pin) & 1)
