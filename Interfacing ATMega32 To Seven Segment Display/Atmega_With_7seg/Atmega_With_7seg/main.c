@@ -5,10 +5,10 @@
       --------------------------
      |             A            |
      |	        -------         |
-0 <--|A	      ||	   ||       |
+0 <--|A	      ||       ||       |
 1 <--|B     F ||       || B     |
 2 <--|C       ||   G   ||       |
-3 <--|D		    -------         |
+3 <--|D		-------         |
 4 <--|E       ||       ||       |
 5 <--|F	    E ||       || C     |
 6 <--|G       ||       ||       |
@@ -35,7 +35,7 @@ for number 9 --> A, B, C, D, F, G      --> 1 0 0 1 0 0 0 0 --> 0x90
 
 --> Secondly for common cathode : to turn a led on put '1' on the pin
                                   or you can easily change any '0' in 
-								  common anode with '1'
+				  common anode with '1'
 
                                            7 6 5 4 3 2 1 0
                                           DP G F E D C B A
