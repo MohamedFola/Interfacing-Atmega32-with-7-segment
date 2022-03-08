@@ -1,10 +1,7 @@
 /*
- * interfacing Atmega32/Atmega16  with 7 segment display
- * Author : Mohamed Hassan Fola
- */ 
+--> interfacing Atmega32/Atmega16  with 7 segment display
+--> Author : Mohamed Hassan Fola
 
-
-/*
       --------------------------
      |             A            |
      |	        -------         |
